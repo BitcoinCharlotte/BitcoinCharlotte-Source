@@ -1,0 +1,35 @@
+---
+layout: default
+title: Home
+active_tab: 
+generator: pagination
+pagination:
+    max_per_page: 3
+use:
+    - posts
+---
+{% for post in page.pagination.items %}
+    <article>
+        {{ post.date | date("F jS, Y") }}
+        <h1><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h1>
+
+        <div>
+            {{ post.blocks.content|raw }}
+        </div>
+        {% if post.meta.tags %}
+            <p class="tags">
+            Tags:
+            {% for tag in post.meta.tags %}
+            <a href="{{ site.url }}/briefs/tags/{{ tag|url_encode(true) }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+            {% endfor %}
+            </p>
+        {% endif %}
+    </article>
+    <div class="glow-bar glow-bar-divider container-fluid">&nbsp;</div>
+{% endfor %}
+{% if page.pagination.previous_page or page.pagination.next_page %}
+    <nav>
+        {% if page.pagination.previous_page %}<a class="pagination-new" href="{{ site.url }}{{ page.pagination.previous_page.url }}">Newer Posts</a>{% endif %}
+        {% if page.pagination.next_page %}<a class="pagination-old" href="{{ site.url }}{{ page.pagination.next_page.url }}">Older Posts</a>{% endif %}<br />
+    </nav>
+{% endif %}

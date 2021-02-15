@@ -1,0 +1,61 @@
+---
+layout: default
+title: Briefs Archive
+generator: pagination
+use:
+    - posts
+    - posts_categories
+    - posts_tags
+
+---
+
+
+<div class="row">
+    <div class="col-sm-6">
+    {% set year = '0' %}
+    <h2>Posts Archive</h2>
+    {% for post in page.pagination.items %}
+    {% set this_year %}{{ post.date | date("Y") }}{% endset %}
+    {% if year != this_year %}
+      {% set month = '0' %}
+      {% set year = this_year %}
+    {% endif %}
+    {% set this_month %}{{ post.date | date("F") }}{% endset %}
+    {% if month != this_month %}
+      {% set month = this_month %}
+      <h3>{{ month }} {{ year }}</h3>
+    {% endif %}
+      <div>
+        <a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+      </div>
+    {% endfor %}
+    {% if page.pagination.previous_page or page.pagination.next_page %}
+    <nav class="article clearfix">
+    {% if page.pagination.previous_page %}
+    <a class="previous" href="{{ site.url }}{{ page.pagination.previous_page.url }}" title="Previous Page"><span class="title">Previous Page</span></a>
+    {% endif %}
+    {% if page.pagination.next_page %}
+    <a class="next" href="{{ site.url }}{{ page.pagination.next_page.url }}" title="Next Page"><span class="title">Next Page</span></a>
+    {% endif %}
+    </nav>
+{% endif %}
+    </div>
+    <div class="col-sm-6">
+      <h2>Categories</h2>
+
+      <div>
+      {% for category,posts in data.posts_categories %}
+      <a href="{{ site.url }}/briefs/categories/{{ category|url_encode(true) }}">{{ category }}</a>
+      {% endfor %}
+      </div>
+
+      <h2>Tags</h2>
+
+      <div>
+      {% for tag,posts in data.posts_tags %}
+      <a href="{{ site.url }}/briefs/tags/{{ tag|url_encode(true) }}">{{ tag }}</a>
+      {% endfor %}
+      </div>
+
+    </div>
+</div>
