@@ -34,7 +34,6 @@ Swan bitcoin is one of the best new ways to buy bitcoin by dollar cost averaging
 #### Cigar, Crypto & Chill
 
 ---
-## Here, enjoy a Bitcoin meme!
 
 ![It's Not Too Late Bitcoin Meme](/assets/img/posts/its-too-late-to-buy-bitcoin.png "It's Not Too Late Bitcoin Meme")
 

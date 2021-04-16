@@ -25,10 +25,9 @@ Michael Saylor is making huge waves in the bitcoin space. In August and Septembe
 ## Upcoming Meetups
 
 ### February 16th, 2021 - [RSVP](https://www.meetup.com/BitcoinCharlotte/events/274694041/)
-[![Cigar Crypto Chill](/assets/img/posts/cigar-crypto-chill-loong.jpg "Cigar Crypto Chill")](https://www.meetup.com/BitcoinCharlotte/events/274694041/)
+#### Cigar Crypto Chill
 
 ---
-## Here, enjoy a Bitcoin meme!
 
 <div class="responsive-embed">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/iiynQuBFqBk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

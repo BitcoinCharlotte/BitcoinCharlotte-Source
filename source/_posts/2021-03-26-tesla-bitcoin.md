@@ -48,6 +48,5 @@ Bitcoin paid to Tesla will be retained as Bitcoin, not converted to fiat currenc
 #### Cigar Crypto & Chill
 
 ---
-## Here, enjoy a Bitcoin meme!
 
 ![Fix the Money, Fix the World](/assets/img/posts/fix-the-money-fix-the-world.jpeg "Fix the Money, Fix the World")

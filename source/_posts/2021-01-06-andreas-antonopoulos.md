@@ -21,14 +21,12 @@ Andreas M. Antonopoulos is one of the most influential speakers and educators ea
 
 ---
 
-## The next meetup is January 19th, 2021 
-
-![Cigar Crypto Chill](/assets/img/posts/cigar-crypto-chill-loong.jpg "Cigar Crypto Chill")
+### The next meetup is January 19th, 2021 
+#### Cigar Crypto Chill
 
 <a class="cta" href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP</a>
 
 ---
-## Here, enjoy a Bitcoin meme!
 
 <div class="responsive-embed">
 	<iframe width="100%" height="100%" src="https://www.youtube.com/embed/9NUzLF6xGJQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

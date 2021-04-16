@@ -34,7 +34,6 @@ We were fortunate enough to have Dr. Saifedean Ammous speak at [Bitcoin Charlott
 <a class="cta" href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP</a>
 
 ---
-## Here, enjoy a Bitcoin meme!
 
 ![Matrix bitcoin Meme](/assets/img/posts/matrix-bitcoin-meme.jpg "Matrix Bitcoin Meme")
 

@@ -41,6 +41,4 @@ categories:
 #### Afternoon Bitcoin Chat
 
 ---
-## Here, enjoy a Bitcoin meme!
-
 ![You're so Lucky](/assets/img/posts/your-so-lucky.jpeg "You're so Lucky")

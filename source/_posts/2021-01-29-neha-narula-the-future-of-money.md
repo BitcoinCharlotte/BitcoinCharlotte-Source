@@ -27,13 +27,12 @@ This 2016 TED talk by Neha Narula beautifully breaks down principles of money an
 ## Upcoming Meetups
 
 ### February 2nd, 2021 - [RSVP](https://www.meetup.com/BitcoinCharlotte/events/275880644/)
-[![Lightning Network 101](/assets/img/posts/lightning-network-meetupcom-header.jpg "Lightning Network 101")](https://www.meetup.com/BitcoinCharlotte/events/275880644/)
+#### Lightning Network 101
 
 ### February 16th, 2021 - [RSVP](https://www.meetup.com/BitcoinCharlotte/events/274694041/)
-[![Cigar Crypto Chill](/assets/img/posts/cigar-crypto-chill-loong.jpg "Cigar Crypto Chill")](https://www.meetup.com/BitcoinCharlotte/events/274694041/)
+#### Cigar Crypto Chill
 
 ---
-## Here, enjoy a Bitcoin meme!
 
 ![Bank Safe Meme](/assets/img/posts/money-safe-in-our-bank.png "Bank Safe Meme")
 
