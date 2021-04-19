@@ -30,7 +30,7 @@ Want to stay up with the latest Bitcoin news? Check out No Bullshit Bitcoin on T
 ### May 8th, 2021 - [RSVP](https://www.meetup.com/BitcoinCharlotte/events/277164991/)
 #### Afternoon Bitcoin Chat
 
-### April 18th, 2021 - [RSVP](https://www.meetup.com/BitcoinCharlotte/events/276428708/)
+### May 18th, 2021 - [RSVP](https://www.meetup.com/BitcoinCharlotte/events/276428708/)
 #### Cigar Crypto & Chill
 
 ---
