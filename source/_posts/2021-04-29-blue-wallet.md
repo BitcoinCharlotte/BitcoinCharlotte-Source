@@ -37,4 +37,6 @@ If you want to explore some other mobile options for spending and receiving bitc
 ### May 22nd, 2021 - [RSVP](https://www.meetup.com/BitcoinCharlotte/events/277165000/)
 #### Afternoon Bitcoin Chat
 
+---
+
 ![Excuse Me Bitcoin](/assets/img/posts/excuse-me-bitcoin.jpeg "Excuse Me Bitcoin")
