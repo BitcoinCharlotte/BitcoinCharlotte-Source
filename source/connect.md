@@ -6,6 +6,11 @@ active_tab: connect
 ---
 # Connect
 
+* [Meetup](http://www.meetup.com/BitcoinCharlotte) - Become a Bitcoin Charlotte member on Meetup.com
+* [Telegram](https://t.me/joinchat/GRK-_ZZ8Qz7U34nB) - Join our group chat to ask questions and enjoy bitcoin discussion! 
+* [Instagram](https://www.instagram.com/bitcoincharlotte/) - @BitcoinCharlotte
+* [Twitter](https://twitter.com/Bitcoin_CLT) - @Bitcoin_CLT
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -25,13 +30,5 @@ active_tab: connect
 </div>
 
 <!--End mc_embed_signup-->
-
-### Other ways to connect
-
-* [Meetup](http://www.meetup.com/BitcoinCharlotte) - Become a Bitcoin Charlotte member on Meetup.com
-* [Telegram](https://t.me/joinchat/GRK-_ZZ8Qz7U34nB) - Join our group chat to ask questions and enjoy bitcoin discussion! 
-* [Instagram](https://www.instagram.com/bitcoincharlotte/) - @BitcoinCharlotte
-* [Twitter](https://twitter.com/Bitcoin_CLT) - @Bitcoin_CLT
-
 
 Website admin and meetup organizer: [jacob@bitcoincharlotte.org](mailto:jacob@bitcoincharlotte.org)
