@@ -16,7 +16,7 @@ categories:
     - resource
 ---
 
-[![No Bullshit Bitcoin](/assets/img/posts/no-bs-bitcoin.jpg "Bitcoin Taproot")](https://t.me/s/nobullshitbitcoin)
+[![No Bullshit Bitcoin](/assets/img/posts/no-bullshit-bitcoin.jpg "Bitcoin Taproot")](https://t.me/s/nobullshitbitcoin)
 
 Want to stay up with the latest Bitcoin news? Check out No Bullshit Bitcoin on Telegram. Updates daily and only about Bitcoin! If you like, consider [supporting with lightning](https://tippin.me/@nobsbitcoin). 
 
