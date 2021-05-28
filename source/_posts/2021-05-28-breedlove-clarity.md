@@ -29,7 +29,7 @@ This one is excellent! Great questions capturing current concerns and Breedlove'
 
 ---
 
-## Other Upcoming Meetups
+## Upcoming Meetups
 
 ### June 12th, 2021 - [RSVP](https://www.meetup.com/BitcoinCharlotte/events/278000016/)
 #### Saturday Sats
