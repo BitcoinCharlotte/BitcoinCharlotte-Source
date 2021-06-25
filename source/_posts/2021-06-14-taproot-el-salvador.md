@@ -7,6 +7,7 @@ tags:
     - taproot
     - volcano energy
     - bitcoin conference 2021 miami
+    - jack mallers
 categories:
     - brief
     - meetup
@@ -21,9 +22,9 @@ WHAT A TIME TO BE ALIVE!!! The energy at the [Bitcoin 2021 Conference in Miami](
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/_59hrgTiRJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-This is a must watch emotional speech by [@JackMallars](https://twitter.com/jackmallers) of [Strike](https://strike.me/) on El Salvador becoming the first country to declare Bitcoin legal tender. A few days later, [@nic_carter](https://twitter.com/nic__carter) decided to host a twitter spaces because he was bored cooking dinner. A couple hours later, the [President of El Salvador joins](https://bitcoinarchive.substack.com/p/bitcoin-is-legal-tender)! The epic space ended up having over 23 thousand users and the president answered questions about the transition. At the end of the spaces you can hear El Salvador assembly clapping in the background officially passing the bill to make Bitcoin legal tender in El Salvador.
+This is a must watch emotional speech by [@JackMallers](https://twitter.com/jackmallers) of [Strike](https://strike.me/) on El Salvador becoming the first country to declare Bitcoin legal tender. A few days later, [@nic_carter](https://twitter.com/nic__carter) decided to host a twitter spaces because he was bored cooking dinner. A couple hours later, the [President of El Salvador joins](https://bitcoinarchive.substack.com/p/bitcoin-is-legal-tender)! The epic space ended up having over 23 thousand users and the president answered questions about the transition. At the end of the spaces you can hear El Salvador assembly clapping in the background officially passing the bill to make Bitcoin legal tender in El Salvador.
 
-<a class="cta" href="https://www.youtube.com/watch?v=_59hrgTiRJU">Watch Jack Mallars speech at Bitcoin2021 Conference</a>
+<a class="cta" href="https://www.youtube.com/watch?v=_59hrgTiRJU">Watch Jack Mallers speech at Bitcoin2021 Conference</a>
 <a class="cta" href="https://bitcoinarchive.substack.com/p/bitcoin-is-legal-tender">Listen to Twitter Spaces w/ President Nayib Bukele</a>
 
 
