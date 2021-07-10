@@ -19,7 +19,7 @@ categories:
     - meme
 ---
 
-Heppy Friday Bitcoiners! We had a fun, successful first event with last week - Bitcoiners in Paradise. The full video is below if you missed it. Mark your calendars for the next event - July 28th with [Isaiah Jackson speaking on Why Kids Need Bitcoin](https://www.meetup.com/BitcoinCharlotte/events/279069534/). See you tomorrow at our social, [Saturday Sats](https://www.meetup.com/BitcoinCharlotte/events/278308318/)! 
+Happy Friday Bitcoiners! We had a fun, successful first event with last week - Bitcoiners in Paradise. The full video is below if you missed it. Mark your calendars for the next event - July 28th with [Isaiah Jackson speaking on Why Kids Need Bitcoin](https://www.meetup.com/BitcoinCharlotte/events/279069534/). See you tomorrow at our social, [Saturday Sats](https://www.meetup.com/BitcoinCharlotte/events/278308318/)! 
 
 ---
 
@@ -32,7 +32,7 @@ Heppy Friday Bitcoiners! We had a fun, successful first event with last week - B
 ## News
 
 ### [Why El Salvador Made Bitcoin Legal Tender with President Nayib Bukele](https://youtu.be/Ad16W-V3jwY). 
-El Salvador is also [giving every adult citizen $30 worth of bitcoin](https://cointelegraph.com/news/el-salvador-to-airdrop-30-in-bitcoin-to-every-adult-citizen). Also, another [video of him explaining how bitcoin works to the entire nation](https://www.reddit.com/r/Bitcoin/comments/o7szph/the_president_of_el_salvador_just_explained_how/). 
+In addition, El Salvador is [giving every adult citizen $30 worth of bitcoin](https://cointelegraph.com/news/el-salvador-to-airdrop-30-in-bitcoin-to-every-adult-citizen). Here's another [video of him explaining how bitcoin works to the entire nation](https://www.reddit.com/r/Bitcoin/comments/o7szph/the_president_of_el_salvador_just_explained_how/). 
 
 ### [MicroStrategy Owns More than a Half a Percent of Total Bitcoin Supply](https://www.microstrategy.com/en/investor-relations/press/microstrategy-acquires-additional-bitcoins-and-now-holds-over-105000-bitcoins-in-total_06-21-2021)
 
