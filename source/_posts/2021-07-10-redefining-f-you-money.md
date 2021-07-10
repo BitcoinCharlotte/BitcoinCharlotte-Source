@@ -8,7 +8,6 @@ tags:
 categories:
     - meetup
     - brief
-    - meme
 ---
 
 [![F You Girl](/assets/img/posts/f-u-girl.jpg "F You Girl")](https://www.forbes.com/sites/jamesonlopp/2021/07/04/bitcoin-redefining-f-you-money/)
