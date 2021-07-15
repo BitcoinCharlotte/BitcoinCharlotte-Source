@@ -1,20 +1,20 @@
 ---
-title: Redefining F-You Money (Jameson Lopp)
+title: Trezor Suite
 draft: false
 tags:
-    - fuck you money
-    - f you money
-    - jameson lopp
+    - trezor
+    - hardware wallet
+    - wallet
 categories:
     - meetup
     - brief
 ---
 
-[![F You Girl](/assets/img/posts/f-u-girl.jpg "F You Girl")](https://www.forbes.com/sites/jamesonlopp/2021/07/04/bitcoin-redefining-f-you-money/)
+[![Trezor Suite](/assets/img/posts/trezor-suite.jpg "Trezor Suite")](https://blog.trezor.io/trezor-suite-launches-8958c1d37d33)
 
-Awesome post by an NC native Jameson Lopp following Independence Day. If freedom is what you're after, buy bitcoin. Check out more of [his work here](https://www.lopp.net/)
+Trezor is one of the most commonly used hardware wallets for securing larger amounts of bitcoin. They recently released a desktop app for safer and easier access to your funds. No more getting nervous typing the wrong url or phishing attacks, just open your desktop app!
 
-<a class="cta" href="https://www.forbes.com/sites/jamesonlopp/2021/07/04/bitcoin-redefining-f-you-money/">Read the Article!</a>
+<a class="cta" href="https://blog.trezor.io/trezor-suite-launches-8958c1d37d33">Check it out!</a>
 
 ---
 
