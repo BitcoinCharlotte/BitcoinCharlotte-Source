@@ -60,8 +60,10 @@ In addition, El Salvador is [giving every adult citizen $30 worth of bitcoin](ht
 
 
 ---
-
-<embed src="/assets/img/posts/this_is_how_easy_and_simple_it_is_to_send_a-yuzvqhj5ps671.mp4" autostart="false" height="450" width="450" /></embed>
+<video width="450" height="450" controls>
+  <source src="/assets/img/posts/this_is_how_easy_and_simple_it_is_to_send_a-yuzvqhj5ps671.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 [This is how easy and simple it is to send a Bitcoin payment in El Salvador. It really feels like magic internet money.](https://www.reddit.com/r/Bitcoin/comments/o5jzxg/this_is_how_easy_and_simple_it_is_to_send_a/)

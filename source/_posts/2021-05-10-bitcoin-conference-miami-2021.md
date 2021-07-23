@@ -53,7 +53,10 @@ The bitcoin event of the year is upon us - [Bitcoin Converence Miami 2021](https
 
 ---
 
-<embed src="/assets/img/posts/bitcoin-doge-monster.mp4" autostart="false" height="450" width="450" /></embed>
+<video width="450" height="450" controls>
+  <source src="/assets/img/posts/bitcoin-doge-monster.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <small> For all the recent bandwagon dogecoiners out there, be careful! Bitcoin might eat your lunch if you dont watchout! Look into what makes bitcoin and doge different. In particular - bitcoin is limited, doge is not. Now is the time to stack sats and hodl bitcoin! :) </small>
 
