@@ -31,4 +31,3 @@ active_tab: connect
 
 <!--End mc_embed_signup-->
 
-Website admin and meetup organizer: [jacob@bitcoincharlotte.org](mailto:jacob@bitcoincharlotte.org)
