@@ -1,5 +1,5 @@
 ---
-title: Jordan Peterson Enters the Rabbit Hole
+title: Dr. Jordan Peterson Enters the Rabbit Hole
 draft: false
 tags:
     - Jordan Peterson
