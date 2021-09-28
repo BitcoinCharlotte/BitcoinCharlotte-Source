@@ -18,7 +18,7 @@ active_tab: events
         <a href="/hodlween2021"><img src="/assets/img/posts/hodlween2021.jpg" alt="HODLween Bitcoin Party" title="HODLween Bitcoin Party"/></a>
         <p class="pic-caption">
             <span>HODLWEEN - Oct 21st & 22nd, 2021</span><br>
-            <span><a href="/hodlween2021">RSVP Details Coming Soon</a></span>
+            <span><a href="/hodlween2021">Details / Register Here!</a></span>
         </p>
     </div>
     <div class="col">

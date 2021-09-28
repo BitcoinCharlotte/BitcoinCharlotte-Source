@@ -18,18 +18,38 @@ active_tab: events
 
 # HODLWEEN 2021
 
-HODLween is two nights of fun, education, and parties for friends, family, bitcoiners, no-coiners... all are welcome! Come see the fun side of Bitcoin. 
+### Thursday, Oct 21st - Bitcoin Pumpkin Carving!
 
-**Thu, Oct 21st - Bitcoin Pumpkin Carving** - Enjoy pumpkin carving, drinks, and food w/ surprise guest speakers!
-Best Bitcoin themed pumpkin wins 100,000 sats!  
+<a class="cta" href="https://www.eventbrite.com/e/hodlween-pumpkin-carving-tickets-181334354937">Register!</a>
 
-**Fri, Oct 22nd - HODLween Party** - DJ Skittles & costume contest!  Dancing, drink tickets, prizes, and surprises! 
-Best Satoshi Nakamoto costume wins 250,000 sats!
+Pumpkin carving, drinks, food, with guest speakers! We will be located on the upper level of Devil's Logic. Bring your own pumpkin and we will supply tools. Best Bitcoin themed pumpkin will win 100,000 satoshis! Don't know what at satoshi is?! You will by the end of the night!
 
-Stay tuned for more details on speakers, tickets, and more. Message us if you are interested in sponsoring or volunteering!
+Two nights of fun, education, and parties for friends, family, bitcoiners, and no-coiners - all are welcome here! Bring your pumpkin, fun, questions, friends, and family! We're here to have a good time!
 
-Please RSVP so we can gauge interest! 
+Donations of $15 strongly encouraged so we can keep orange pilling the masses!
 
 
-[Bitcoin Pumpkin Carving](https://www.meetup.com/BitcoinCharlotte/events/280990110/) | [HODLween Party](https://www.meetup.com/BitcoinCharlotte/events/280990172/)
+---
+
+
+### Friday, Oct 22, 2021 - Ri Ra's in uptown Charlotte
+
+<a class="cta" href="https://www.eventbrite.com/e/hodlween-costume-party-tickets-181360773957">Register!</a>
+
+LET'S GET WEIRD! DJ Skittles will be spinning beats from bitcoin mashups to funk to halloween mashups - you don't want to miss him! Dancing, drinks, prizes, and surprises!
+
+**COSTUME CONTEST:**
+
+Dress as Satoshi Nakamoto!
+
+Don't know who Satoshi Nakamoto is?! Well none of us know! Who is Satoshi? This means you can dress as whoever or however you want!
+
+Best costume wins 250,000 Satoshis! Don't know what a satoshi is? You will by the end of the night!
+
+**ALL ARE WELCOME HERE!** Just as Bitcoin doesn't care about your age, status, race, etc - we don't either! Tell your friends, plebs, family, no-coiners - come join the fun and let's boogie!
+
+$30 Donation strongly encouraged so we can keep orange pilling the masses!
+
+
+
 
