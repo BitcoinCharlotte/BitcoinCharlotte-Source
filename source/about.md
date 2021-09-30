@@ -6,7 +6,7 @@ active_tab: about
 ---
 # About Bitcoin Charlotte 
 
-We provide bitcoin resources, socials, presentations, weekly breifs and more for the local community. Our intention is to connect like minded individuals, educate each other on best practices, and have fun while doing it!
+We provide bitcoin resources, socials, presentations, weekly briefs and more for the local community. Our intention is to connect like minded individuals, educate each other on best practices, and have fun while doing it!
 
 ## To the Moon Sponsors! &#128640;
 
