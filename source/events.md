@@ -5,22 +5,10 @@ active_tab: events
 
 ---
 
-<a class="cta" href="https://calendar.google.com/calendar/embed?src=0grl3lv52bq4fuc0eiu01uemfk%40group.calendar.google.com&ctz=America%2FNew_York">+ Add Bitcoin Charlotte to Google Calendar</a>
-
-<div class="glow-bar glow-bar-divider container-fluid" style="margin-bottom:50px;">&nbsp;</div>
-
-
 # Upcoming Events
 
 <article style="margin:20px 0 50px">
 <div class="row">
-    <div class="col">
-        <a href="https://www.occvolunteersignup.com/VolunteerSignUp/IndexGroup?rg=d58724a9a98943e3bc84b7db885c1996"><img src="/assets/img/posts/Instagram-operation-x.jpg" alt="Volunteer at Operation Christmas Child" title="Volunteer at Operation Christmas Child"/></a>
-        <p class="pic-caption">
-            <span>Volunteer at Operation Christmas Child - Nov 30th, 2021</span><br>
-            <span><a href="https://www.occvolunteersignup.com/VolunteerSignUp/IndexGroup?rg=d58724a9a98943e3bc84b7db885c1996">Sign up here!</a></span>
-        </p>
-    </div>
     <div class="col">
         <a href="https://www.meetup.com/BitcoinCharlotte/events/282286991/"><img src="/assets/img/posts/Instagram-bitcoin-rox.jpg" alt="Saturday Sats" title="Saturday Sats"/></a>
         <p class="pic-caption">
@@ -28,19 +16,12 @@ active_tab: events
             <span><a href="https://www.meetup.com/BitcoinCharlotte/events/282286991/">RSVP here! </a><br>
         </p>
     </div>
-</div>
-</article>
-<article style="margin:0 0 50px">
-<div class="row">
     <div class="col">
         <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/Salty-Parrot-Brewing-Saturday-Sats-Meetup.jpg" alt="Saturday Sats" title="Saturday Sats"/></a>
         <p class="pic-caption">
             <span>Saturday Sats! - Every 2nd and 4th Saturday of the Month</span><br>
             <span><a href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP - Multiple Dates</a><br>
         </p>
-    </div>
-    <div class="col">
-  
     </div>
 </div>
 </article>
@@ -51,6 +32,13 @@ active_tab: events
 
 <article style="margin:20px 0 50px">
 <div class="row">
+    <div class="col">
+        <a href="/event-2021-11-30"><img src="/assets/img/posts/Instagram-operation-x.jpg" alt="Volunteer at Operation Christmas Child" title="Volunteer at Operation Christmas Child"/></a>
+        <p class="pic-caption">
+            <span>Volunteer at Operation Christmas Child - Nov 30th, 2021</span><br>
+            <span><a href="/event-2021-11-30">Archives</a></span>
+        </p>
+    </div>
     <div class="col">
         <a href="/hodlween2021"><img src="/assets/img/posts/hodlween2021.jpg" alt="HODLween Bitcoin Party" title="HODLween Bitcoin Party"/></a>
         <p class="pic-caption">
@@ -83,11 +71,6 @@ active_tab: events
             <span><a href="/event-2021-07-29">Watch Video / Archives</a></span>
         </p>
     </div>
-</div>
-</article>
-
-<article style="margin:0 0 50px">
-<div class="row">
     <div class="col">
         <a href="/event-2021-06-16"><img src="/assets/img/posts/bitcoin-paradise-recap-event1.jpg" alt="Bitcoiners in Paradise!" title="Bitcoiners in Paradise!"/></a>
         <p class="pic-caption">
@@ -95,6 +78,11 @@ active_tab: events
             <span><a href="/event-2021-06-16">Watch Video / Archives</a></span>
         </p>
     </div>
+</div>
+</article>
+
+<article style="margin:0 0 50px">
+<div class="row">
     <div class="col">
         <a href="/event-2021-02-02"><img src="/assets/img/posts/lightning-network-meetup-feb2nd.jpg" alt="Lightning Network 101" title="Lightning Network 101"/></a>
         <p class="pic-caption">
@@ -102,11 +90,6 @@ active_tab: events
             <span><a href="/event-2021-02-02">Archives</a></span>
         </p>
     </div>
-</div>
-</article>
-
-<article style="margin:0 0 50px">
-<div class="row">
     <div class="col">
         <a href="/event-2018-06-13"><img src="/assets/img/posts/saifedean-ammous-event.jpg" alt="Saifedean Ammous author of The Bitcoin Standard" title="Saifedean Ammous author of The Bitcoin Standard"/></a>
         <p class="pic-caption">
