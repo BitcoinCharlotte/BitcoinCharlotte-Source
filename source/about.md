@@ -27,7 +27,7 @@ We provide bitcoin resources, socials, presentations, weekly briefs and more for
 ## Bitcoin Charlotte Team 
 
 
-Founder, Organizer, and Website Admin: [jacob@bitcoincharlotte.org](mailto:jacob@bitcoincharlotte.org)
+Founder and Website Admin: [jacob@bitcoincharlotte.org](mailto:jacob@bitcoincharlotte.org)
 
 Event Organizer: [liz@bitcoincharlotte.org](mailto:liz@bitcoincharlotte.org)
 
