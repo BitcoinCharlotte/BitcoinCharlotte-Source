@@ -20,5 +20,4 @@ categories:
 
 Jack Mallers and Strike mean business. They just won the battle, permanently, for buying bitcoin with the cheapest fees. If you havent tried Strike, go download it! It's a tad strange for bitcoin veterans since the balance is always in dollars, but rest assuered that you can send your money out to a lighting (or on-chain) address at any time. Get ready world, here comes the reign of bitcoin companies!
 
-<a class="cta" href="https://blog.trezor.io/trezor-suite-launches-8958c1d37d33">Watch the Video</a>
 <a class="cta" href="https://strike.me/">Download Strike</a>

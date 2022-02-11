@@ -16,6 +16,6 @@ active_tab: events
 
 ## Book #1 - The Bitcoin Standard
 * [Read](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) | [Listen](https://www.audible.com/pd/The-Bitcoin-Standard-Audiobook/B07D7ZRKLJ)
-* Jan 10th @ 6pm: Ch 1-3  &nbsp; [Twitter Spaces](https://twitter.com/i/spaces/1MYxNnQoWmvxw) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/282872181/)
-* Jan 31st @ 6pm: Ch 4-7 &nbsp; [Twitter Spaces](https://twitter.com/i/spaces/1OyJADnDPjWGb) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/282960926/)
-* Feb 21st: Ch 8-Finish &nbsp; [Meetup](https://www.meetup.com/BitcoinCharlotte/events/282960956/)
+* Jan 10th, 2022 @ 6pm: Ch 1-3  &nbsp; [Download](https://drive.google.com/file/d/124lW7Uq2G85lUj6sWwN-8X8ddEBelwXn/view?usp=sharing) | [Twitter Spaces](https://twitter.com/i/spaces/1MYxNnQoWmvxw) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/282872181/)
+* Jan 31st, 2022 @ 6pm: Ch 4-7 &nbsp; [Download](https://drive.google.com/file/d/1iy4tjZ6PkkmMmPoOHz-m-3kUx7xYWZGI/view?usp=sharing) | [Twitter Spaces](https://twitter.com/i/spaces/1OyJADnDPjWGb) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/282960926/)
+* Feb 21st, 2022 @ 6pm: Ch 8-Finish &nbsp; [Twitter Spaces](https://twitter.com/i/spaces/1lPKqmqgWMPKb) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/282960956/)

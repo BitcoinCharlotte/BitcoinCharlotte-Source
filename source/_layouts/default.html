@@ -57,7 +57,7 @@
                     <div class="tri"></div>
                 </a>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
-                    {% set navigation_bar = [['events', 'Events'], ['briefs', 'Briefs'], ['resources', 'Resources'], ['connect', 'Connect'], ['about', 'About']] %}
+                    {% set navigation_bar = [['events', 'Events'], ['connect', 'Connect'], ['about', 'About']] %}
                     {% block navigation %}
                     <ul class="navbar-nav mr-auto">
                         {% for item in navigation_bar %}
@@ -88,10 +88,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
+                        
                         <b>{{ site.title }}</b><br>Established 2013 - {{ "now"|date("Y") }} <br>
                         ~
                         <ul class="footer-nav">
-                            <li><a href="{{ site.url }}/briefs">Briefs Archive</a></li>
+                            <li><a href="{{ site.url }}/briefs-archive">Briefs Archive</a></li>
                         </ul>
                         ~
                         <ul class="footer-nav">
