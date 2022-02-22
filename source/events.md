@@ -10,6 +10,13 @@ active_tab: events
 <article style="margin:20px 0 50px">
 <div class="row">
     <div class="col">
+        <a href="/event-2022-03-23"><img src="/assets/img/posts/InstagramB4B.jpg" alt="Bitcoin for Businesses" title="Bitcoin for Businesses"/></a>
+        <p class="pic-caption">
+            <span>Bitcoin for Businesses - March 23rd, 2022</span><br>
+            <span><a href="/event-2022-03-23">RSVP</a><br>
+        </p>
+    </div>
+    <div class="col">
         <a href="/book-club"><img src="/assets/img/posts/InstagramBookClub.jpg" alt="Bitcoin Charlotte Book Club" title="Bitcoin Charlotte Book Club"/></a>
         <p class="pic-caption">
             <span>Bitcoin Charlotte Book Club</span><br>
@@ -23,8 +30,7 @@ active_tab: events
             <span><a href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP - Multiple Dates</a><br>
         </p>
     </div>
-    <div class="col">
-    </div>
+    
 </div>
 </article>
 
