@@ -15,8 +15,8 @@ active_tab: events
 
 ## Book #2 - The Price of Tomorrow
 * [Read](https://www.amazon.com/Price-Tomorrow-Deflation-Abundant-Future/dp/1999257405/) | [Listen](https://www.audible.com/pd/The-Price-of-Tomorrow-Audiobook/B08724Y81K)
-* Mar 14th, 2022 @ 6pm: Ch 1-4  &nbsp;
-* Apr 4th, 2022 @ 6pm: Ch 5-10 (Finish!) &nbsp;
+* Mar 14th, 2022 @ 6pm: Ch 1-4  &nbsp; [Twitter Spaces](https://twitter.com/i/spaces/1ynJOZNWwmvGR) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/284205898/)
+* Apr 4th, 2022 @ 6pm: Ch 5-10 (Finish!) &nbsp; [Meetup](https://www.meetup.com/BitcoinCharlotte/events/284205913/)
 
 ---
 
