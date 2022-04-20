@@ -21,7 +21,6 @@ active_tab: events
         <p class="pic-caption">
             <span>Bitcoin Day - June 11th</span><br>
             <span><a href="/event-2022-06-11">Register Here</a><br>
-            <!-- https://bitcoinday.io/charlotte22 -->
         </p>
     </div>
     <div class="col">

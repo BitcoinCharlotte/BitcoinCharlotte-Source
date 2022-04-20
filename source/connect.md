@@ -10,6 +10,7 @@ active_tab: connect
 * [Telegram](https://t.me/joinchat/GRK-_ZZ8Qz7U34nB) - Join our group chat to ask questions and enjoy bitcoin discussion! 
 * [Instagram](https://www.instagram.com/bitcoincharlotte/) - @BitcoinCharlotte
 * [Twitter](https://twitter.com/Bitcoin_CLT) - @Bitcoin_CLT
+* [YouTube](https://www.youtube.com/channel/UCKwingqx30KWmKHuLhEpXfA)
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
