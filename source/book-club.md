@@ -25,8 +25,8 @@ active_tab: events
 
 ## Book #2 - The Price of Tomorrow
 * [Read](https://www.amazon.com/gp/product/1999257405/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-Price-of-Tomorrow-Audiobook/B08724Y81K)
-* Mar 14th, 2022 @ 6pm: Ch 1-4  &nbsp; [Download] | [Twitter Spaces](https://twitter.com/i/spaces/1ynJOZNWwmvGR) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/284205898/)
-* Apr 4th, 2022 @ 6pm: Ch 5-10 (Finish!) &nbsp; [Download] | [Twitter Spaces](https://twitter.com/i/spaces/1OwGWzAvwlWKQ) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/284205913/)
+* Mar 14th, 2022 @ 6pm: Ch 1-4  [Twitter Spaces](https://twitter.com/i/spaces/1ynJOZNWwmvGR) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/284205898/)
+* Apr 4th, 2022 @ 6pm: Ch 5-10 (Finish!) &nbsp; [Download](https://drive.google.com/file/d/1Ka0BCjYDcGQAMeMDC69pGTVo4gtLeizl/view?usp=sharing) | [Twitter Spaces](https://twitter.com/i/spaces/1OwGWzAvwlWKQ) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/284205913/)
 
 ---
 
