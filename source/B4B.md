@@ -6,21 +6,24 @@ active_tab: b4b
 ---
 # Bitcoin for Businesses
 
-Our first event ["Bitcoin for Businesses"](/event-2022-03-23) was held on March 23rd, 2022. We will be updating this page with that presentation along with information specifically for local businesses. 
+Welcome local business owner! This page is dedicated to helping you accept bitcoin at your business and understanding why bitcoin is so important for your businesses' future. We also use this page to showcase and promote all local businesses that accept bitcoin in Charlotte, NC. 
 
-We will also be updating this page with all local businesses that accept Bitcoin in Charlotte. Come back soon to see all the bitcoin businesses in Charlotte! 
+**To get started, check out our presentation on March 23rd, 2022 - ["Bitcoin for Businesses"](/event-2022-03-23).**
 
-If you are a business interested in accepting Bitcoin, find us on [Telegram](https://t.me/joinchat/GRK-_ZZ8Qz7U34nB) or email us at [B4B@bitcoincharlotte.org](mailto:B4B@bitcoincharlotte.org) with any questions.
+Ready to accept Bitcoin? Email us at [B4B@bitcoincharlotte.org](mailto:B4B@bitcoincharlotte.org) or find us on [Telegram](https://t.me/joinchat/GRK-_ZZ8Qz7U34nB) and we will be happy to assist you! 
 
-<article style="margin:20px 0 50px">
-<div class="row justify-content-center">
-    <div class="col">
-        <img src="/assets/img/posts/InstagramB4B.jpg" alt="Bitcoin for Businesses" title="Bitcoin for Businesses"/>
-    </div>
-    <div class="col"></div>
-    <div class="col"></div>
-</div>
-</article>
+---
 
+## Charlotte Bitcoin Businesses
+
+###Delgado Fuego 
+  - Hodls Bitcoin
+  - Bitcoin Only
+  - [website](https://delgadosfuego.com/)
+  - [instagram](https://www.instagram.com/delgadosfuego/)
+
+
+###Steak 'n Hoagie Shop
+  - [location](https://maps.google.com/?q=4390+Potter+Rd,+Matthews,+NC+28104)
 
 

@@ -6,11 +6,11 @@ active_tab: about
 ---
 # About Bitcoin Charlotte 
 
-We provide bitcoin resources, socials, presentations, weekly briefs and more for the local community. Our intention is to connect like minded individuals, educate each other on best practices, and have fun while doing it!
+We host socials and educational events for the Charlotte community to learn about Bitcoin. Our intention is to connect in person for networking, education and fun. These gatherings are truly invaluable experiences where long term friendships, life changing ideas, and business ventures are developed. 
 
-<i>Interested in having your Bitcoin company, product or service highlighted in our social media, newsletter, and at our events? <a href="mailto:jacob@bitcoincharlotte.org?subject=To the Moon Bitcoin Charlotte Sponsorship">Send us a message</a>! </i>
+<i>Interested in having your company, product or service highlighted in our social media, newsletter, and at our events? <a href="mailto:jacob@bitcoincharlotte.org?subject=Bitcoin Charlotte Sponsorship">Send us a message</a>! </i>
 
-## To the Moon Sponsors! &#128640;
+## Sponsors
 
 <article style="margin:20px 0 50px">
 <div class="row">
