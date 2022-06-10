@@ -10,13 +10,14 @@ active_tab: events
 # Bitcoin Charlotte Book Club
 
 
+
 <div class="book">
     <a href="https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991267/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/BookBook4.jpg" alt="Thank God for Bitcoin" title="Thank God for Bitcoin"/></a>
 </div>
 
 ## Book #4 - Thank God for Bitcoin
 * [Read](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991267/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/Thank-God-for-Bitcoin-Audiobook/B08ZYW4FJH)
-* June 13th, 2022 @ 6pm: Ch 1-9 (Finish!) &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/285673356/)
+* June 13th, 2022 @ 6pm: Ch 1-9 (Finish!) &nbsp; [Download] | [Twitter Spaces](https://twitter.com/i/spaces/1ypKdEBRBbvGW?s=20) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/285673356/)
 
 ---
 
@@ -26,7 +27,7 @@ active_tab: events
 
 ## Book #3 - Layered Money
 * [Read](https://www.amazon.com/gp/product/1736110527/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/Layered-Money-Audiobook/B091D5R2SB)
-* May 16th, 2022 @ 6pm: Ch 1-10 (Finish!) &nbsp; [Download] | [Twitter Spaces](https://twitter.com/i/spaces/1lPKqmkWmNPKb?s=20) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/285392542/)
+* May 16th, 2022 @ 6pm: Ch 1-10 (Finish!) &nbsp; [Download](https://drive.google.com/file/d/1mcu4KZ-eCwJJ2UesmoFWjYisvY6D6zfK/view?usp=sharing) | [Twitter Spaces](https://twitter.com/i/spaces/1lPKqmkWmNPKb?s=20) | [Meetup](https://www.meetup.com/BitcoinCharlotte/events/285392542/)
 
 ---
 

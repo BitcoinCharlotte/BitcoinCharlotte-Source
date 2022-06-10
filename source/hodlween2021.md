@@ -7,13 +7,17 @@ active_tab: events
 
 [< Back to Events](/events)
 
+### HODLWEEN PICS! - [Edited](https://photos.app.goo.gl/SUuWf4VuJVtfWKiP8) | [RAW](https://photos.app.goo.gl/RNAnyqPCg5G7C2Qp9)
+
+<img src="/assets/img/hodlween/hodlween2021group.jpg" width="100%" title="Hodlween 2021 Group Photo Bitcoin Charlotte" alt="Hodlween 2021 Group Photo Bitcoin Charlotte" />
+
+<br><br>
 
 <div class="responsive-embed">
     <iframe width="100%" height="100%" src="https://www.youtube.com/embed/sCJRvsR6kas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <hr>
 
-### HODLWEEN PICS! - [Edited](https://photos.app.goo.gl/SUuWf4VuJVtfWKiP8) | [RAW](https://photos.app.goo.gl/RNAnyqPCg5G7C2Qp9)
 
 ---
 

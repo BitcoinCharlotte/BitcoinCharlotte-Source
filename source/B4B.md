@@ -16,14 +16,25 @@ Ready to accept Bitcoin? Email us at [B4B@bitcoincharlotte.org](mailto:B4B@bitco
 
 ## Charlotte Bitcoin Businesses
 
-###Delgado Fuego 
+###Delgados Fuego 
   - Hodls Bitcoin
   - Bitcoin Only
   - [website](https://delgadosfuego.com/)
   - [instagram](https://www.instagram.com/delgadosfuego/)
 
+###Southern Strain
+  - Hodls Bitcoin
+  - Bitcoin Only
+  - [website](https://www.southernstrainbrewing.com/plazamidwood)
+  - [instagram](https://www.instagram.com/southernstrain_plazamidwood/) 
 
 ###Steak 'n Hoagie Shop
   - [location](https://maps.google.com/?q=4390+Potter+Rd,+Matthews,+NC+28104)
+
+
+Top of List Criteria
+- Hodls Bitcoin - Holds bitcoin on balance sheet, does not sell it all for USD.
+- Bitcoin Only - Does not accept altcoins.
+- Runs a Node - Runs a bitcoin node and private bitcoin payserver in house.
 
 
