@@ -40,7 +40,7 @@ active_tab: events
         </p>
     </div>
     <div class="col">
-        <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/Instagramdevilslogics.jpg" alt="Saturday Sats" title="Saturday Sats"/></a>
+        <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/southern-strain-saturday-sats.jpg" alt="Saturday Sats" title="Saturday Sats"/></a>
         <p class="pic-caption">
             <span>Saturday Sats! - Every 2nd and 4th Saturday of the Month</span><br>
             <span><a href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP - Multiple Dates</a><br>
@@ -114,6 +114,10 @@ active_tab: events
 <div class="row no-gutters">
     <div class="col">
         <a href="/event-2018-01-17"><img src="/assets/img/posts/jimmysong-event.jpg" alt="Jimmy Song" title="Jimmy Song"/></a>
+    </div>
+    <div class="col">
+    </div>
+    <div class="col">
     </div>
 </div>
 </article>
