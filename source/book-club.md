@@ -30,6 +30,26 @@ active_tab: events
 ---
 
 <div class="book">
+    <a href="https://www.amazon.com/7th-Property-Bitcoin-Monetary-Revolution/dp/0578902621/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/BookBook8.jpg" alt="The 7th Property" title="The 7th Property"/></a>
+</div>
+
+## Book #8 - The 7th Property
+* [Read](https://www.amazon.com/7th-Property-Bitcoin-Monetary-Revolution/dp/0578902621/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-7th-Property-Audiobook/B09N9VWMGW)
+* November 14th, 2022 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+
+---
+
+<div class="book">
+    <a href="https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/BookBook9.jpg" alt="The Sovereign Individual" title="The Sovereign Individual"/></a>
+</div>
+
+## Book #9 - The Sovereign Individual
+* [Read](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-Sovereign-Individual-Audiobook/1797103385)
+* December 19th, 2022 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+* January 30th, 2023 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+
+
+<!-- <div class="book">
     <a href="https://www.amazon.com/21-Lessons-Learned-Falling-Bitcoin/dp/1697526349/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/BookBook8.jpg" alt="21 Lessons" title="21 Lessons"/></a>
 </div>
 
@@ -48,16 +68,7 @@ active_tab: events
 * [Read](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-Blocksize-War-Audiobook/B096CNVVQC)
 * December 19th, 2022 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
 
----
-
-<div class="book">
-    <a href="https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/BookBook10.jpg" alt="The Sovereign Individual" title="The Sovereign Individual"/></a>
-</div>
-
-## Book #10 - The Sovereign Individual
-* [Read](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-Sovereign-Individual-Audiobook/1797103385)
-* January 30th, 2023 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
-* March 6th, 2023 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+--- -->
 
 ---
 
