@@ -9,23 +9,13 @@ active_tab: events
 
 # Bitcoin Charlotte Book Club
 
-<div class="book cleanbook">
-    <a href="https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/bookclub/Book9.jpg" alt="The Sovereign Individual" title="The Sovereign Individual"/></a>
-</div>
-
-## Book #9 - The Sovereign Individual
-* [Read](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-Sovereign-Individual-Audiobook/1797103385)
-* December 19th, 2022 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
-* January 30th, 2023 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
-
----
 
 <div class="book cleanbook">
     <a href="https://www.amazon.com/Bitcoin-Beef-Criticisms-Similarities-Decentralization/dp/B09W799F5F/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/bookclub/Book10.jpg" alt="Bitcoin and Beef" title="Bitcoin and Beef"/></a>
 </div>
 
 ## Book #10 - Bitcoin and Beef
-* [Read](https://www.amazon.com/Bitcoin-Beef-Criticisms-Similarities-Decentralization/dp/B09W799F5F/?tag=bitcoincharlo-20) | [Listen](#)
+* [Read](https://www.amazon.com/Bitcoin-Beef-Criticisms-Similarities-Decentralization/dp/B09W799F5F/?tag=bitcoincharlo-20)
 * March 6th, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcfbjb/)
 
 ---
@@ -35,7 +25,7 @@ active_tab: events
 </div>
 
 ## Book #11 - Bitcoin Mining Handbook
-* [Read](https://braiins.com/books/bitcoin-mining-handbook) | [Listen](#)
+* [Read](https://braiins.com/books/bitcoin-mining-handbook)
 * April 3rd, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcgbfb/)
 
 ---
@@ -55,7 +45,7 @@ active_tab: events
 </div>
 
 ## Book #13 - Bitcoin: Hard Money You Can't F\*ck With
-* [Read](https://www.amazon.com/Bitcoin-bitcoin-global-reserve-currency/dp/1838318402/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1672106445&sr=1-1/?tag=bitcoincharlo-20) | [Listen](#)
+* [Read](https://www.amazon.com/Bitcoin-bitcoin-global-reserve-currency/dp/1838318402/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1672106445&sr=1-1/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/Bitcoin-Hard-Money-You-Cant-F-ck-With-Audiobook/B08VBV2PP2?qid=1676312843&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=5YZQ42Y586WJRD0QMWN2&pageLoadId=JYvU4FfD4HvnLgt4&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c)
 * June 5th, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcjbhb/)
 
 ---
@@ -75,7 +65,7 @@ active_tab: events
 </div>
 
 ## Book #15 - The Fiat Standard
-* [Read](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474/?tag=bitcoincharlo-20) | [Listen](#)
+* [Read](https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-Fiat-Standard-Audiobook/B09VVCK4RY?qid=1676312876&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=S6DRGKK298XHZHAD1156&pageLoadId=iJoDg7ausHq3S4Iw&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c)
 * August 7th, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfclbkb/)
 
 ---
@@ -85,7 +75,7 @@ active_tab: events
 </div>
 
 ## Book #16 - Bitcoin Clarity
-* [Read](https://www.amazon.com/Bitcoin-Clarity-Complete-Beginners-Understanding/dp/1733871209/?tag=bitcoincharlo-20) | [Listen](#)
+* [Read](https://www.amazon.com/Bitcoin-Clarity-Complete-Beginners-Understanding/dp/1733871209/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/Bitcoin-Clarity-The-Complete-Beginners-Guide-to-Understanding-Audiobook/B08TTKJKGB?qid=1676312896&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=PD4ZVPHF8YNQCX0JBWSF&pageLoadId=f7us92pL0kshZOMu&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c)
 * September 4th, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcmbgb/)
 
 ---
@@ -94,7 +84,7 @@ active_tab: events
 </div>
 
 ## Book #17 - The Bullish Case for Bitcoin
-* [Read](https://www.amazon.com/Bullish-Case-Bitcoin-Vijay-Boyapati/dp/1737204118/?tag=bitcoincharlo-20) | [Listen](#)
+* [Read](https://www.amazon.com/Bullish-Case-Bitcoin-Vijay-Boyapati/dp/1737204118/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/search?keywords=The+Bullish+Case+for+Bitcoin&ref-override=a_pd_Bitcoi_t1_header_search&k=The+Bullish+Case+for+Bitcoin&crid=2584FGJTPPCY0&sprefix=the+bullish+case+for+bitcoin%2Cna-audible-us%2C61&i=na-audible-us&url=search-alias%3Dna-audible-us&ref=nb_sb_noss_2)
 * October 2nd, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcnbdb/)
 
 ---
@@ -104,7 +94,7 @@ active_tab: events
 </div>
 
 ## Book #18 - SATOSHI
-* [Read](https://www.amazon.com/SATOSHI-R-D-BOSKOVIC/dp/B096TRSTSY/?tag=bitcoincharlo-20) | [Listen](#)
+* [Read](https://www.amazon.com/SATOSHI-R-D-BOSKOVIC/dp/B096TRSTSY/?tag=bitcoincharlo-20)
 * November 6th, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcpbjb/)
 
 ---
@@ -114,7 +104,7 @@ active_tab: events
 </div>
 
 ## Book #19 - Magic Internet Money
-* [Read](https://www.amazon.com/Magic-Internet-Money-About-Bitcoin/dp/1777128404/?tag=bitcoincharlo-20) | [Listen](#)
+* [Read](https://www.amazon.com/Magic-Internet-Money-About-Bitcoin/dp/1777128404/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/Magic-Internet-Money-Audiobook/B0BCH5FPWX?qid=1676312950&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=N863F2P4GEWN18HH3ABQ&pageLoadId=lTBIdubA5ScGOqCZ&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c)
 * December 4th, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcqbgb/)
 
 ---
@@ -124,7 +114,7 @@ active_tab: events
 </div>
 
 ## Book #20 - The Fourth Turning
-* [Read](https://www.amazon.com/Fourth-Turning-American-Prophecy-Rendezvous/dp/0767900464/?tag=bitcoincharlo-20) | [Listen](#)
+* [Read](https://www.amazon.com/Fourth-Turning-American-Prophecy-Rendezvous/dp/0767900464/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-Fourth-Turning-Audiobook/B002UZN3YI?qid=1676312965&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=Y31GDPD2BEB4GMY7ETEW&pageLoadId=Z6hAqCEchmvkUc2s&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c)
 * February 4th, 2024 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtygcdbhb/)
 
 ---
@@ -145,7 +135,16 @@ active_tab: events
 # Previous Book Club Events
 
 
+<div class="book cleanbook">
+    <a href="https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/bookclub/Book9.jpg" alt="The Sovereign Individual" title="The Sovereign Individual"/></a>
+</div>
 
+## Book #9 - The Sovereign Individual
+* [Read](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-Sovereign-Individual-Audiobook/1797103385)
+* December 19th, 2022 @ 6pm &nbsp; [Download](https://drive.google.com/file/d/18UqoJRm0F8bfm52F6QPyfqFp46Hbth3G/view?usp=sharing) | [Twitter Spaces](https://twitter.com/Bitcoin_CLT/status/1615032322675585024?s=20&t=yfHzpFBlqr-_co94PE2ANw) | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+* January 30th, 2023 @ 6pm &nbsp; [Download](https://drive.google.com/file/d/1Lghs2slCsqNfF8bpj9mi3MLI87h0SXCj/view?usp=sharing) | [Twitter Spaces](https://twitter.com/Bitcoin_CLT/status/1620203104519221249?s=20&t=yfHzpFBlqr-_co94PE2ANw) | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+
+---
 
 <div class="book">
     <a href="https://www.amazon.com/7th-Property-Bitcoin-Monetary-Revolution/dp/0578902621/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/BookBook8.jpg" alt="The 7th Property" title="The 7th Property"/></a>
@@ -153,7 +152,7 @@ active_tab: events
 
 ## Book #8 - The 7th Property
 * [Read](https://www.amazon.com/7th-Property-Bitcoin-Monetary-Revolution/dp/0578902621/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-7th-Property-Audiobook/B09N9VWMGW)
-* November 14th, 2022 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+* November 14th, 2022 @ 6pm &nbsp; [Download](https://drive.google.com/file/d/1gp9fMDiw0_1cfewsStZZFwBpIfUcfaQM/view?usp=share_link) | [Twitter Spaces](https://twitter.com/i/spaces/1OdJrzdowbXJX?s=20) | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
 
 ---
 
@@ -163,7 +162,7 @@ active_tab: events
 
 ## Book #7 - The UnCommunist Manifesto
 * [Read](https://www.amazon.com/UnCommunist-Manifesto-Message-Responsibility-Liberty/dp/B0B8BRL3RP/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/The-UNcommunist-Manifesto-with-Mark-Moss-Aleks-Svetski-Podcast/B0B81S4F5Q)
-* October 3rd, 2022 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+* October 3rd, 2022 @ 6pm &nbsp; [Download](https://drive.google.com/file/d/1LEbxHSBliLbi3j2WIeKIRiPdGUuKSDyO/view?usp=sharing) | [Twitter Spaces](https://twitter.com/i/spaces/1LyxBqPEvWLJN?s=20) | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
 
 ---
 
@@ -173,7 +172,7 @@ active_tab: events
 
 ## Book #6 - SATOSHI
 * [Read](https://www.amazon.com/SATOSHI-R-D-BOSKOVIC/dp/B096TRSTSY/?tag=bitcoincharlo-20) | [Listen]()
-* September 12th, 2022 @ 6pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
+* September 12th, 2022 @ 6pm &nbsp; [Download](https://drive.google.com/file/d/1NWHr25MxBz0WzJHr1k3q94ClmQmtYVvW/view?usp=sharing) | [Twitter Spaces](https://twitter.com/i/spaces/1PlKQpvqvDYxE?s=20) | [Meetup](https://www.meetup.com/bitcoincharlotte/events/)
 
 ---
 

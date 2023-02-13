@@ -8,9 +8,9 @@ active_tab: connect
 
 * [Meetup](http://www.meetup.com/BitcoinCharlotte) - Become a Bitcoin Charlotte member on Meetup.com
 * [Telegram](https://t.me/joinchat/GRK-_ZZ8Qz7U34nB) - Join our group chat to ask questions and enjoy bitcoin discussion! 
-* [Instagram](https://www.instagram.com/bitcoincharlotte/) - @BitcoinCharlotte
+* [Instagram](https://www.instagram.com/bitcoincharlotte/) - @bitcoincharlotte
 * [Twitter](https://twitter.com/Bitcoin_CLT) - @Bitcoin_CLT
-* [YouTube](https://www.youtube.com/channel/UCKwingqx30KWmKHuLhEpXfA)
+* [YouTube](https://www.youtube.com/@bitcoincharlotte) - @bitcoincharlotte
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
@@ -20,8 +20,8 @@ active_tab: connect
 <div id="mc_embed_signup">
 <form action="https://bitcoincharlotte.us7.list-manage.com/subscribe/post?u=13e4b3fb1418577106d350996&amp;id=5d3a722a8b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h3>Sign up for weekly Bitcoin Charlotte Briefs</h3>
-	<p>Each email will be "brief" and focus on one bitcoin topic, info on upcoming meetups, and a meme for your entertainment :)</p>
+	<h3>Sign up for emails</h3>
+	<p>We email periodically on upcoming events and important news.</p>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_13e4b3fb1418577106d350996_5d3a722a8b" tabindex="-1" value=""></div>

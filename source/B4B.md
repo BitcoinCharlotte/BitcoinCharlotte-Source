@@ -14,9 +14,9 @@ Ready to accept Bitcoin? Email us at [B4B@bitcoincharlotte.org](mailto:B4B@bitco
 
 ---
 
-## Charlotte Bitcoin Businesses
+## Charlotte Bitcoin Businesses: [BTC Map](https://btcmap.org/community/bitcoin-charlotte)
 
-###Delgados Fuego 
+<!-- ###Delgados Fuego 
   - Hodls Bitcoin
   - Bitcoin Only
   - [website](https://delgadosfuego.com/)
@@ -37,4 +37,4 @@ Top of List Criteria
 - Bitcoin Only - Does not accept altcoins.
 - Runs a Node - Runs a bitcoin node and private bitcoin payserver in house.
 
-
+ -->
