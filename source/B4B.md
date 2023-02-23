@@ -6,7 +6,6 @@ active_tab: b4b
 ---
 # Bitcoin for Businesses
 
-## Charlotte Bitcoin Businesses: [BTC Map](https://btcmap.org/community/bitcoin-charlotte)
 
 Welcome local business owner! This page is dedicated to helping you accept bitcoin at your business and understanding why bitcoin is so important for your businesses' future. We also use this page to showcase and promote all local businesses that accept bitcoin in Charlotte, NC. 
 
@@ -14,7 +13,9 @@ Welcome local business owner! This page is dedicated to helping you accept bitco
 
 Ready to accept Bitcoin? Email us at [B4B@bitcoincharlotte.org](mailto:B4B@bitcoincharlotte.org) and we will be happy to assist you! 
 
----
+
+### Charlotte Bitcoin Businesses: [BTC Map](https://btcmap.org/community/bitcoin-charlotte)
+
 
 
 <!-- ###Delgados Fuego 
