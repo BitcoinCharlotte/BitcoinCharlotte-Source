@@ -5,46 +5,53 @@ active_tab: events
 
 ---
 
-# Upcoming Events ([Google Calendar](https://calendar.google.com/calendar/u/0?cid=MGdybDNsdjUyYnE0ZnVjMGVpdTAxdWVtZmtAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ))
+# Upcoming Events
+(Click images for more details)
 
 <article style="margin:20px 0 50px">
-<div class="row no-gutters pb-5">
+<div class="row no-gutters">
     <div class="col">
-        <a href="/book-club"><img src="/assets/img/posts/InstagramBookClub2.jpg" alt="Bitcoin Charlotte Book Club" title="Bitcoin Charlotte Book Club"/></a>
+        <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/Bitcoin-Charlotte-Saturday-Sats-Social-banner.jpg" alt="Saturday Sats" title="Saturday Sats"/></a>
         <p class="pic-caption">
-            <!-- <span>Book Club:<br> Every 1st Monday of the Month</span><br> -->
-            <span><a href="/book-club">RSVP - Multiple Dates</a><br>
-        </p>
-    </div>
-    <div class="col">
-        <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/InstagramSaturdaySats.jpg" alt="Saturday Sats" title="Saturday Sats"/></a>
-        <p class="pic-caption">
-            <!-- <span>Saturday Sats Social:<br> Every 2nd Saturday of the Month</span><br> -->
-            <span><a href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP - Multiple Dates</a><br>
-        </p>
-    </div>
-    <div class="col">
-        <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/Instagramworkshop.jpg" alt="Bitcoin Charlotte Workshop" title="Bitcoin Charlotte Workshop"/></a>
-        <p class="pic-caption">
-            <!-- <span>Workshop: <br> Every 4th Monday of the Month</span><br> -->
-            <span><a href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP - Multiple Dates</a><br>
+            <!-- <span>Saturday Sats Social: Every 2nd Saturday of the Month</span><br> -->
+            <!-- <span><a href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP - Multiple Dates</a></span><br> -->
         </p>
     </div>
 </div>
 <div class="row no-gutters">
     <div class="col">
-        <a href="/book-club"><img src="/assets/img/posts/hodlween-cltguide-900x250.jpg" alt="HODLween Bitcoin Party 2023" title="HODLween Bitcoin Party 2023"/></a>
+        <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/Bitcoin-Charlotte-Workshop-banner.jpg" alt="Bitcoin Charlotte Workshop" title="Bitcoin Charlotte Workshop"/></a>
+        <p class="pic-caption">
+            <!-- <span>Workshop: Every 4th Monday of the Month</span><br> -->
+            <!-- <span><a href="https://www.meetup.com/BitcoinCharlotte/events/">RSVP - Multiple Dates</a></span><br> -->
+        </p>
+    </div>
+</div>
+<div class="row no-gutters">
+    <div class="col">
+        <a href="/book-club"><img src="/assets/img/posts/Bitcoin-Charlotte-Book-Club-banner.jpg" alt="Bitcoin Charlotte Book Club" title="Bitcoin Charlotte Book Club"/></a>
+        <p class="pic-caption">
+            <!-- <span>Book Club:<br> Every 1st Monday of the Month</span><br> -->
+            <!-- <span><a href="/book-club">RSVP - Multiple Dates</a></span><br> -->
+        </p>
+    </div>
+</div>
+<div class="row no-gutters">
+    <div class="col">
+        <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/hodlween-website-banner.jpg" alt="HODLween Bitcoin Party 2023" title="HODLween Bitcoin Party 2023"/></a>
         <p class="pic-caption">
             <span>HODLWEEN 2023 this October!</span><br>
-            <span><a href="mailto:hodl@bitcoincharlotte.org?subject=Hodlween 2023">Email us for info</a>
+            <span><a href="mailto:hodl@bitcoincharlotte.org?subject=Hodlween 2023">Email us for info</a></span>
         </p>
     </div>
 </div>
 </article>
 
+
 <div class="glow-bar glow-bar-divider container-fluid" style="margin-bottom:50px;">&nbsp;</div>
 
 # Past Events / Videos & Archives
+(Click images for more details)
 
 <article style="margin:20px 0 1px">
 <div class="row no-gutters">
@@ -115,7 +122,7 @@ active_tab: events
 </div>
 </article>
 
-<article style="margin:0 0 1px">
+<article style="margin:0 0 50px">
 <div class="row no-gutters">
 <div class="col">
     <a href="/event-2018-01-17"><img src="/assets/img/posts/jimmysong-event.jpg" alt="Jimmy Song" title="Jimmy Song"/></a>
@@ -124,3 +131,17 @@ active_tab: events
 <div class="col"></div>
 </div>
 </article>
+
+
+<div class="glow-bar glow-bar-divider container-fluid" style="margin-bottom:50px;">&nbsp;</div>
+
+# About Bitcoin Charlotte
+ 
+Bitcoin Charlotte is a local bitcoin community created in 2013 in Charlotte, North Carolina. We host socials and educational events to learn about Bitcoin. Our intention is to connect in person for networking, education and fun. We hope to liberate individuals and companies financial dependency on traditional banks and governments by assisting them in using a better form of money, Bitcoin. 
+
+
+## Team 
+
+
+Founder, Organizer and Website Admin: [jacob@bitcoincharlotte.org](mailto:jacob@bitcoincharlotte.org)<br>
+Organizer: [liz@bitcoincharlotte.org](mailto:liz@bitcoincharlotte.org)
