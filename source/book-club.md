@@ -16,7 +16,7 @@ active_tab: events
 
 ## Book #10 - Bitcoin and Beef
 * [Read](https://www.amazon.com/Bitcoin-Beef-Criticisms-Similarities-Decentralization/dp/B09W799F5F/?tag=bitcoincharlo-20)
-* March 6th, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces] | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcfbjb/)
+* March 6th, 2023 @ 6:30pm &nbsp; [Download] | [Twitter Spaces](https://twitter.com/i/spaces/1BRJjZVyMeZJw) | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfcfbjb/)
 
 ---
 
