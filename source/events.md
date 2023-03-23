@@ -139,7 +139,7 @@ active_tab: events
 
 # About Bitcoin Charlotte
  
-Bitcoin Charlotte is a local bitcoin community created in 2013 in Charlotte, North Carolina. We host socials and educational events to learn about Bitcoin. Our intention is to connect in person for networking, education and fun. We hope to liberate individuals and companies financial dependency on traditional banks and governments by assisting them in using a better form of money, Bitcoin. 
+Bitcoin Charlotte is a local bitcoin community created in 2013 in Charlotte, North Carolina. We host socials and educational events to learn about Bitcoin. We connect in person for networking, education and fun. Our mission is to liberate individuals and companies financial dependency on traditional banks and governments by assisting them in using a better form of money, Bitcoin. 
 
 
 ## Team 
