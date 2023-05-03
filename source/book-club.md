@@ -11,16 +11,6 @@ active_tab: events
 
 
 <div class="book cleanbook">
-    <a href="https://www.amazon.com/21-Lessons-Learned-Falling-Bitcoin/dp/1697526349/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/bookclub/Book12.jpg" alt="21 Lessons" title="21 Lessons"/></a>
-</div>
-
-## Book #12 - 21 Lessons
-* [Read](https://www.amazon.com/21-Lessons-Learned-Falling-Bitcoin/dp/1697526349/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/21-Lessons-What-Ive-Learned-from-Falling-Down-the-Bitcoin-Rabbit-Hole-Audiobook/B088C1DK58?qid=1660307416&sr=1-3&ref=a_search_c3_lProduct_1_3&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=B905DWC89AWSHMM7T59C)
-* May 1st, 2023 @ 6:30pm &nbsp; [Download] | [Nostr Nests](https://nostrnests.com/fvf4cw) | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfchbcb/)
-
----
-
-<div class="book cleanbook">
     <a href="https://www.amazon.com/Bitcoin-bitcoin-global-reserve-currency/dp/1838318402/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1672106445&sr=1-1/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/bookclub/Book13.jpg" alt="Bitcoin: Hard Money You Can't Fuck With" title="Bitcoin: Hard Money You Can't Fuck With"/></a>
 </div>
 
@@ -114,6 +104,16 @@ active_tab: events
 
 # Previous Book Club Events
 
+
+<div class="book cleanbook">
+    <a href="https://www.amazon.com/21-Lessons-Learned-Falling-Bitcoin/dp/1697526349/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/bookclub/Book12.jpg" alt="21 Lessons" title="21 Lessons"/></a>
+</div>
+
+## Book #12 - 21 Lessons
+* [Read](https://www.amazon.com/21-Lessons-Learned-Falling-Bitcoin/dp/1697526349/?tag=bitcoincharlo-20) | [Listen](https://www.audible.com/pd/21-Lessons-What-Ive-Learned-from-Falling-Down-the-Bitcoin-Rabbit-Hole-Audiobook/B088C1DK58?qid=1660307416&sr=1-3&ref=a_search_c3_lProduct_1_3&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=B905DWC89AWSHMM7T59C)
+* May 1st, 2023 @ 6:30pm &nbsp; [Download](https://drive.google.com/file/d/1MuM5h0XqDAnogAPQHMhtVLEjrAz7HDP9/view?usp=share_link) | [Nostr Nests](https://nostrnests.com/fvf4cw) | [Meetup](https://www.meetup.com/bitcoincharlotte/events/crnhbtyfchbcb/)
+
+---
 
 <div class="book cleanbook">
     <a href="https://braiins.com/books/bitcoin-mining-handbook" target="_blank"><img src="/assets/img/posts/bookclub/Book11.jpg" alt="Bitcoin Mining Handbook" title="Bitcoin Mining Handbook"/></a>
