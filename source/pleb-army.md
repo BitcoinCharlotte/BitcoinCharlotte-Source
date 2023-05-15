@@ -7,7 +7,7 @@ active_tab: pleb-army
 
 ## Pleb Army Supporters
 
-Join the pleb army and support Bitcoin Charlotte.
+"The corrupt fear us, the honest support us, and the heroic join us."
 
 <!-- <i>We use this money for hosting events, server costs, meetup.com fees, Saturday Sats gifts, and promoting bitcoin through merchandise and educational material.</i> -->
 

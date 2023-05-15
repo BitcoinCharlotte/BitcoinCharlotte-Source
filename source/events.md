@@ -11,6 +11,15 @@ active_tab: events
 <article style="margin:20px 0 50px">
 <div class="row no-gutters">
     <div class="col">
+        <a href="https://hodlween.party/"><img src="/assets/img/posts/hodlween-website-banner.jpg" alt="HODLween Bitcoin Party 2023" title="HODLween Bitcoin Party 2023"/></a>
+        <p class="pic-caption">
+            <!-- <span>HODLWEEN 2023 this October!</span><br> -->
+            <!-- <span><a href="mailto:hodl@bitcoincharlotte.org?subject=Hodlween 2023">Email us for info</a></span> -->
+        </p>
+    </div>
+</div>
+<div class="row no-gutters">
+    <div class="col">
         <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/Bitcoin-Charlotte-Saturday-Sats-Social-banner.jpg" alt="Saturday Sats" title="Saturday Sats"/></a>
         <p class="pic-caption">
             <!-- <span>Saturday Sats Social: Every 2nd Saturday of the Month</span><br> -->
@@ -33,15 +42,6 @@ active_tab: events
         <p class="pic-caption">
             <!-- <span>Book Club:<br> Every 1st Monday of the Month</span><br> -->
             <!-- <span><a href="/book-club">RSVP - Multiple Dates</a></span><br> -->
-        </p>
-    </div>
-</div>
-<div class="row no-gutters">
-    <div class="col">
-        <a href="https://www.meetup.com/BitcoinCharlotte/events/"><img src="/assets/img/posts/hodlween-website-banner.jpg" alt="HODLween Bitcoin Party 2023" title="HODLween Bitcoin Party 2023"/></a>
-        <p class="pic-caption">
-            <span>HODLWEEN 2023 this October!</span><br>
-            <span><a href="mailto:hodl@bitcoincharlotte.org?subject=Hodlween 2023">Email us for info</a></span>
         </p>
     </div>
 </div>
