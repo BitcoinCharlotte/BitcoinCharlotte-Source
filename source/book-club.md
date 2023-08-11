@@ -7,11 +7,11 @@ active_tab: events
 
 [< Back to Events](/events)
 
-# Bitcoin Charlotte Book Club
+<!-- # Bitcoin Charlotte Book Club -->
 
 
 
-
+<!-- 
 <div class="book cleanbook">
     <a href="https://www.amazon.com/Fiat-Standard-Slavery-Alternative-Civilization/dp/1544526474/?tag=bitcoincharlo-20" target="_blank"><img src="/assets/img/posts/bookclub/Book15.jpg" alt="The Fiat Standard" title="The Fiat Standard"/></a>
 </div>
@@ -68,7 +68,9 @@ active_tab: events
 ## Book #20 - The Fourth Turning
 * [Buy Book](https://www.amazon.com/Fourth-Turning-American-Prophecy-Rendezvous/dp/0767900464/?tag=bitcoincharlo-20) | [Buy Audio](https://www.audible.com/pd/The-Fourth-Turning-Audiobook/B002UZN3YI?qid=1676312965&sr=1-1&ref=a_search_c3_lProduct_1_1&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=Y31GDPD2BEB4GMY7ETEW&pageLoadId=Z6hAqCEchmvkUc2s&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c)
 * February 4th, 2024 @ 6:30pm &nbsp; [Join us on Nostr Nests](https://nostrnests.com/hyvahk) | [RSVP on Meetup.com](https://www.meetup.com/bitcoincharlotte/events/crnhbtygcdbhb/)
+ -->
 
+ 
 ---
 
 <!--
