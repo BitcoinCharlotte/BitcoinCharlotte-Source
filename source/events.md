@@ -163,6 +163,7 @@ Bitcoin Charlotte is a local Bitcoin community founded in 2013. With [2000+ memb
 Join the pleb army and support Bitcoin Charlotte.
 
 <div class="pleb-army">
+    <a href="https://geyser.fund/project/noderunnersradio" title="Noderunners Radio"><img src="/assets/img/plebarmy/noderunners.png"/></a>
     <a href="https://bitcoin101.io" title="Wartime Psychopath&trade;"><img src="/assets/img/plebarmy/BVC-PFP-tiny.gif"/></a>
     <a title="Dan"><img src="/assets/img/plebarmy/lazerlion.jpg"/></a>
     <a title="John"><img src="/anon.jpg"/></a>
@@ -180,7 +181,7 @@ Join the pleb army and support Bitcoin Charlotte.
     <a href="https://www.joincrowdhealth.com/promotions/bitcoin" target="_blank" title="CrowdHealth"><img src="/assets/img/plebarmy/zACZ3_lY_400x400.jpg"/></a>
 </div>
 <br>
-<a class="cta glow-bar" href="https://store.bitcoincharlotte.org/apps/2uyBkNxiTUGndZ4A2N4DcYPhCmfy/pos">Join the Pleb Army</a>
+<a class="cta glow-bar" href="https://btcpayserver.bitcoincharlotte.org/apps/2uyBkNxiTUGndZ4A2N4DcYPhCmfy/pos">Join the Pleb Army</a>
 <br><br><br><br>
 
 ## Bitcoin Charlotte / HODLween Team

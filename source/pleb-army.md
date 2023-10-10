@@ -7,11 +7,14 @@ active_tab: pleb-army
 
 ## Pleb Army Supporters
 
+Bitcoin Charlotte is funded by ourselves and we invite you to join us in spreading the magic and joy of this Bitcoin only celebration. By supporting HODLween, you are directly investing in the future of the Bitcoin movement and paving the way for even greater awareness and adoption. Donate now and be a part of the driving force behind the orange revolution. You can choose to donate anonymously or publicly.
+
 "The corrupt fear us, the honest support us, and the heroic join us."
 
 <!-- <i>We use this money for hosting events, server costs, meetup.com fees, Saturday Sats gifts, and promoting bitcoin through merchandise and educational material.</i> -->
 
 <div class="pleb-army">
+    <a href="https://geyser.fund/project/noderunnersradio" title="Noderunners Radio"><img src="/assets/img/plebarmy/noderunners.png"/></a>
     <a href="https://bitcoin101.io" title="Wartime Psychopath&trade;"><img src="/assets/img/plebarmy/BVC-PFP-tiny.gif"/></a>
     <a title="Dan"><img src="/assets/img/plebarmy/lazerlion.jpg"/></a>
     <a title="John"><img src="/anon.jpg"/></a>
